@@ -7,7 +7,7 @@ Get bangumi danmaku from bilibili
 
 ## 使用方法  
 
-0. **前提：** Python3+环境  
+0. **前提：** Python3+环境，requests库  
 
     ```
     python dmk.py  
