@@ -14,7 +14,7 @@ Get bangumi danmaku from bilibili
     ```
 1. 然后输入b站番剧的**EPID** ↓ 
 
-    ![](https://p.pstatp.com/origin/pgc-image/2909ee6d370e45d8a2e336c9f1972eed)  
+    ![](https://ae01.alicdn.com/kf/Hc8e7548fd2474a68baedfb7978febd775.jpg)  
 
 2. 程序会自动抓取弹幕xml文件，存储在**同目录**下。文件名形如***EPID**.xml*  
 
